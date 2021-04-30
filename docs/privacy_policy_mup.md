@@ -1,3 +1,4 @@
+<link href="./pages.css" rel="stylesheet"></link>
 ## はじめに
 
 本アプリでは、ユーザーのプライバシー情報を保護する重要性を認識しております。
